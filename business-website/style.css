@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  background-image: url("https://previews.123rf.com/images/kstudija/kstudija1608/kstudija160800188/60978866-motorcycle-performance-extreme-stunt-driver-man-sport-bike-vector-abstract-blue-background-illustrat.jpg");
+}
+
+#container {
+  width: 600px;
+  margin: auto;
+  background-color: white;
+  min-height: 100%;
+}
+
+.centered, .maprouter {
+  text-align: center;
+}

@@ -1,0 +1,27 @@
+body {
+  font-family: 'Butterfly Kids', cursive;
+  font-size: 40px;
+}
+
+#container {
+  width: 800px;
+  margin: auto; 
+  text-align: center;
+}
+
+#message {
+  font-size: 80px;
+}
+
+img {
+  max-width: 50%;
+  border-radius: 25px;
+}
+
+.boy {
+  color: rgb(0, 153, 255);
+}
+
+.girl {
+  color: rgb(255, 153, 204);
+}

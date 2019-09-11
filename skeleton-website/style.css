@@ -1,0 +1,25 @@
+body {
+ background-color: cornflowerblue; 
+ color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+#welcome {
+  color: yellow;
+}
+
+#favorites {
+  color: green;
+}
+
+#rabbit {
+  width: 400px;
+}
